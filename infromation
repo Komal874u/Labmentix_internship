@@ -1,0 +1,34 @@
+Paris 2024 Olympic Dashboard (GitHub)
+
+Provides an interactive analysis of the 2024 Olympic Games and historical data.
+
+Offers insights into athlete performance, country-wise participation, and medal trends.
+
+Built using Power BI, DAX, Python, and Figma.
+
+Features include:
+
+Home Page: Overview of key Olympic themes.
+
+Overview Page: Insights on total athletes, countries, gender distribution, and medal trends.
+
+Athletes Page: Top-performing countries, age-wise distribution, and medal counts.
+
+Country-wise Performance Page: Medal distribution per country with a map view.
+
+Historical Trends Page: Visualization of Olympic history and dominant countries over different decades.
+Paris 2024 Olympics Dashboard (The Developer)
+
+Interactive dashboard designed for detailed insights into the Paris 2024 Olympics.
+
+Uses Power BI, Python, and Kaggle data for real-time updates.
+
+Features include:
+
+Medal Tally and Analysis: Real-time tracking of medal standings.
+
+Athlete and Event Insights: Profiles of top athletes and event schedules.
+
+Historical Comparisons and Trend Analysis: Performance improvements or declines over past Olympics.
+
+Interactive Maps and Charts: Geographical data visualization.
